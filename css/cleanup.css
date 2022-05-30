@@ -1,1 +1,13 @@
 /* write your override styles here */
+body {
+    background: black url(../images/sketch.jpg) no-repeat center;
+    background-size: cover;
+    margin: 0px;
+    display: block;
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    padding: 0px 0px 0px 0px;
+}
+#wall .tag-1 {
+    display: none;
+  }
